@@ -9,3 +9,6 @@ https://github.com/dmis-lab/biobert
 
 BioWordVec model can be downloaded from:
 https://github.com/ncbi-nlp/BioSentVec/blob/master/README.md#biowordvec
+
+Reference for 2nd tasks:-
+- https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html
